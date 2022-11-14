@@ -19,6 +19,8 @@
 07. Adding Images to GCP Cloud Storage      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jamescalam/applied-ml-minicourse/blob/main/code/07-images-in-gcp.ipynb)
 08. Populating the Index                    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jamescalam/applied-ml-minicourse/blob/main/code/08-populating-index.ipynb)
 09. Making Queries                          [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jamescalam/applied-ml-minicourse/blob/main/code/09-making-queries.ipynb)
-10. Introduction to Gradio
-11. Building a Gradio ML App
-12. Adding Apps to Hugging Face Spaces
+10. Introduction to Gradio                  [![Open In Github](https://raw.githubusercontent.com/jamescalam/applied-ml-minicourse/main/images/github-code-shield.svg)](https://github.com/jamescalam/applied-ml-minicourse/blob/main/code/10-gradio-intro.py)
+11. Building a Gradio ML App                [![Open In Github](https://raw.githubusercontent.com/jamescalam/applied-ml-minicourse/main/images/github-code-shield.svg)](https://github.com/jamescalam/applied-ml-minicourse/blob/main/code/11-gradio-ml-app.py)
+12. Introduction to Hugging Face Spaces
+13. Hugging Face Spaces Secrets             [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jamescalam/applied-ml-minicourse/blob/main/code/13-hf-spaces-secrets.ipynb)
+14. Adding Gradio App to Spaces             [![Open In Github](https://raw.githubusercontent.com/jamescalam/applied-ml-minicourse/main/images/github-code-shield.svg)](https://github.com/jamescalam/applied-ml-minicourse/blob/main/code/14-gradio-ml-app-spaces.py)
