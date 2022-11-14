@@ -17,8 +17,8 @@
 05. Applying Semantic Search to Diffusion   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jamescalam/applied-ml-minicourse/blob/main/code/05-diffusion-search.ipynb)
 06. Getting Started with GCP Cloud Storage
 07. Adding Images to GCP Cloud Storage      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jamescalam/applied-ml-minicourse/blob/main/code/07-images-in-gcp.ipynb)
-08. Populating the Index
-09. Making Queries
+08. Populating the Index                    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jamescalam/applied-ml-minicourse/blob/main/code/08-populating-index.ipynb)
+09. Making Queries                          [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jamescalam/applied-ml-minicourse/blob/main/code/09-making-queries.ipynb)
 10. Introduction to Gradio
 11. Building a Gradio ML App
 12. Adding Apps to Hugging Face Spaces
